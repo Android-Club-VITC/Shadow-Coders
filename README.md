@@ -14,11 +14,10 @@ Ensure you have the following installed on your machine:
 - Dart SDK
 - An IDE of your choice (e.g., VS Code, Android Studio)
 
+![Screenshot 2025-03-08 115414](https://github.com/user-attachments/assets/af61bcfa-b2b7-468d-ac90-0d12122bbfef)
+
 ### Installation
-
 Clone the repository:
-
 ```bash
 git clone https://github.com/palakxcode/shadow-coders.git
 cd shadow-coders
-![Screenshot 2025-03-08 115414](https://github.com/user-attachments/assets/b6068bb7-e004-4b56-87aa-fc5ebc8c160b)
